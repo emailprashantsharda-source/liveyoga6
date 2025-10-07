@@ -1,0 +1,1 @@
+(function(){ console.warn('calendar.js placeholder — booking modal not initialized'); })();
